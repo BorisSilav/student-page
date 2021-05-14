@@ -1,6 +1,35 @@
 {
-    "title": "UML Class",
+    "title": "Лабораторная работа №5",
     "items": [
-        
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Структура объекта системы в формате ERD Class",
+                    "class": "md-title"
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Описываемый объект: Схема БД"
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "ER диаграмма ролей",
+                    "link": "https://github.com/BorisSilav/proektirovanie/blob/main/ER_role.txt"
+                }
+            ]
+        },
+        {
+            "type": "image",
+            "data":"img/Er-role.png" 
+        } 
     ]
 }
